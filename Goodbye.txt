@@ -1,2 +1,2 @@
 print("Goddbye world")
-print("Goodbye")
+print("Goodbye")		// комментарии в коде 
