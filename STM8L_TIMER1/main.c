@@ -18,6 +18,7 @@ LED - PC3
 
 // developing mode start // dev 1 // dev 2
 
+// embedded engineer added some more functionality
 
 #include "iostm8l151g4.h"
 
