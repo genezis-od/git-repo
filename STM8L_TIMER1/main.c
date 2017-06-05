@@ -6,22 +6,7 @@ http://we.easyelectronics.ru/STM8/8l-kurs-chast-5-taymery-nachalo.html
 LED - PC3
 */
 
-// work in master branch - оабота в ветве мастер
-
-// add some comment in main.c
-
-// adding some functionality in this code--
-
-// continue coding...
-
-// указание  - првоерить номер порта светодиода
-
-
-// team lead development process: changing code
-
-// developing mode start // dev 1 // dev 2
-
-// embedded engineer added some more functionality
+// Hello GIT!!!!
 
 
 #include "iostm8l151g4.h"
