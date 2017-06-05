@@ -16,7 +16,13 @@ LED - PC3
 
 // указание  - првоерить номер порта светодиода
 
+
 // team lead development process: changing code
+
+// developing mode start // dev 1 // dev 2
+
+// embedded engineer added some more functionality
+
 
 #include "iostm8l151g4.h"
 
