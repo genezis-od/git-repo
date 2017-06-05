@@ -1,1 +1,3 @@
 writing new feature
+
+feature functions updating///
