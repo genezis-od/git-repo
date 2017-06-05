@@ -1,3 +1,5 @@
 writing new feature
 
 feature functions updating///
+
+finishing class 2 functions wriring
