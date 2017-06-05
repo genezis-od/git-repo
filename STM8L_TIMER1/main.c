@@ -12,6 +12,8 @@ LED - PC3
 
 // continue coding...
 
+// указание  - првоерить номер порта светодиода
+
 #include "iostm8l151g4.h"
 
  #define STRINGVECTOR(x) #x
