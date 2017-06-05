@@ -4,4 +4,6 @@ print("Goodbye;")		// комментарии в коде
 void new function(void);
 
 
+void new_print (void)
+
 
