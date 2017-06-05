@@ -6,6 +6,10 @@ http://we.easyelectronics.ru/STM8/8l-kurs-chast-5-taymery-nachalo.html
 LED - PC3
 */
 
+// add some comment in main.c
+
+// adding some functionality in this code 
+
 #include "iostm8l151g4.h"
 
  #define STRINGVECTOR(x) #x
