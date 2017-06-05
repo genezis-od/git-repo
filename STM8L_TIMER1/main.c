@@ -8,7 +8,9 @@ LED - PC3
 
 // add some comment in main.c
 
-// adding some functionality in this code-- 
+// adding some functionality in this code--
+
+// continue coding...
 
 #include "iostm8l151g4.h"
 
