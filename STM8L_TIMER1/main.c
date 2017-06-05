@@ -16,6 +16,9 @@ LED - PC3
 
 // указание  - првоерить номер порта светодиода
 
+// developing mode start
+
+
 #include "iostm8l151g4.h"
 
  #define STRINGVECTOR(x) #x
