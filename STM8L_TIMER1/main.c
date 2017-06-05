@@ -16,7 +16,7 @@ LED - PC3
 
 // указание  - првоерить номер порта светодиода
 
-// developing mode start
+// developing mode start // dev 1 
 
 
 #include "iostm8l151g4.h"
